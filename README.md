@@ -4,7 +4,7 @@
 # 
 <a href="https://github.com/haynafi/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haynafi&show_icons=true&bg_color=00000000" />
-</a>
+</a></br>
 <a href="https://github.com/haynafi/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haynafi&layout=compact&langs_count=8&card_width=320" />
 </a></br></br>
@@ -15,7 +15,7 @@
 
 <a href="https://www.linkedin.com/in/khansha-nafi-984308148/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a></br>
+</a>
 <a href="mailto:nkhansha13@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
