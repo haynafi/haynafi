@@ -1,5 +1,5 @@
 # Hi, I'm Nafi'
-<p>I am a passionate Full Stack Developer from Indonesia. I’m currently learning data analytics.</p>
+<p>I am a passionate Full Stack Developer from Indonesia. I’m currently learning data analytics and Front End especially React.</p>
 
 # 
 <a href="https://github.com/haynafi/github-readme-stats">
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/khansha-nafi-984308148/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="mailto:nkhansha13@gmail.com">
+<a href="mailto:nafirs@pm.me">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
