@@ -46,3 +46,7 @@ Indonesia
 ```txt
 status: learning | building | refining
 ```
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=haynafi&color=grey&style=flat)
+![Last Commit](https://img.shields.io/github/last-commit/haynafi/haynafi?style=flat)
