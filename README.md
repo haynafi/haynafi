@@ -1,37 +1,48 @@
-# Hi, I'm Nafi'
-<p>I am a passionate Full Stack Developer from Indonesia. I’m currently learning data analytics and Front End especially React.</p>
+# haynafi@github:~$
 
-# 
-<a href="https://github.com/haynafi/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=haynafi&show_icons=true&bg_color=00000000" />
-</a></br>
-<a href="https://github.com/haynafi/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=haynafi&layout=compact&langs_count=8&card_width=320" />
-</a></br></br>
+```txt
+Full Stack Developer
+React • Backend • Data Curious
+Indonesia
+```
 
-![](https://komarev.com/ghpvc/?username=haynafi&abbreviated=true&style=for-the-badge)
+---
 
-# More About Me
+## profile.txt
+```txt
+• Builds web interfaces with clarity and intent
+• Strong in frontend architecture and component design
+• Works comfortably with backend systems & APIs
+• Currently learning data analytics
+```
 
-<a href="https://www.linkedin.com/in/khansha-nafi-984308148/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:nafirs@pm.me">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+---
 
-
-<!-- **Align left:**
-<p align="left" width="100%">
-    <img width="33%" src="https://i.sstatic.net/RJj4x.png">
+## stack/
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,react,html,css,tailwind" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,laravel,flask,mysql,postgres" />
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=python,go,git,linux" />
 </p>
 
-**Align center:**
-<p align="center" width="100%">
-    <img width="33%" src="https://i.sstatic.net/RJj4x.png">
+---
+
+## contact/
+<p>
+  <a href="https://www.linkedin.com/in/khansha-nafi-984308148/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:nafirs@pm.me">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
 </p>
 
-**Align right:**
-<p align="right" width="100%">
-    <img width="33%" src="https://i.sstatic.net/RJj4x.png">
-</p> -->
+---
+
+```txt
+status: learning | building | refining
+```
